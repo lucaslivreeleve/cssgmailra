@@ -1,0 +1,19 @@
+strong div a, strong#x_botaogerarboleto div a, strong#botaogerarboleto div a {
+    width: 280px !Important;
+    font-size: 15px !important; 
+    line-height: 38px !important;
+    margin-left: auto !important;
+    margin-top: 20px !important;
+    height: 40px !Important;
+    text-transform: initial !important;
+    background-size: 25px !important;
+    background-position: 50px !important;
+    position: absolute !important;
+    background-repeat: no-repeat !important;
+    background-image: url(https://www.roupasatacado.com.br/media/interface/images/icone-impressora-email-boleto.png) !important;
+    text-align: center !important;
+    font-weight: 100 !important;
+    text-decoration: none !important;
+    color: #ffffff !important !important;
+    background-color: #00b4ab !important;
+}
